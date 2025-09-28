@@ -46,7 +46,6 @@
 ---
 
 ### 🛠️ Languages & Tools  
-### 🛠️ Languages & Tools  
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
