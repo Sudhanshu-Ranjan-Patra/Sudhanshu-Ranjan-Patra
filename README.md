@@ -25,7 +25,7 @@
 
  👨‍💻 My projects are available at  [**My Portfolio**](https://my-portfolio-phi-five-97.vercel.app/)
 
- 📄 Know about my experiences   [**My Resume**] (https://your-resume-link.com](https://drive.google.com/file/d/1_HSX_4nQlJ0Ht-fQhmrPwUSQ6H_Vdfvy/view))
+ 📄 Know about my experiences   [**My Resume**](https://your-resume-link.com](https://drive.google.com/file/d/1_HSX_4nQlJ0Ht-fQhmrPwUSQ6H_Vdfvy/view))
 
  ⚡ Fun fact :
  Projects? Hours. Theory? Minutes. 😄 
